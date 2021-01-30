@@ -1,0 +1,1 @@
+# React minimal boilerplate
